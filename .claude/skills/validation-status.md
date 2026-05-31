@@ -2,6 +2,17 @@
 
 Last updated: 2026-05-31
 
+## Project Status
+
+**Live URL:** https://antoniogarcia1978.github.io/comptia-study-buddy/
+(Deployed via GitHub Pages from branch `claude/comptia-study-buddy-v3-kbOgk`)
+
+**Shared with Jordan on 2026-05-31.**
+He was briefed honestly: answers and explanations are fully verified (L2 proven),
+objectiveText wording is approximate (L1 partial), question quality pass not yet done (L3).
+He was asked to flag anything where two answers feel equally right, explanations contradict
+known facts, or scenarios feel unrealistic.
+
 ## Status Key
 - ✅ PROVEN — source confirmed, all layers checked
 - ⚠️ PARTIAL — some layers checked, not complete
